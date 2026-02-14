@@ -1,0 +1,12 @@
+# Videoları ve ağır dosyaları engelle
+*.mp4
+*.png
+*.log
+output_videos/
+assets/
+live_cookies/
+cookies/
+hasat_hatalari/
+avatars/
+__pycache__/
+*.pyc
